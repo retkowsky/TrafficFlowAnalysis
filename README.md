@@ -1,4 +1,4 @@
-# TrafficFlowAnalysis
+# Traffic Flow Analysis
 
 Traffic Flow Analysis example using Azure ML and Yolo object detection.
 
