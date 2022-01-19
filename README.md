@@ -1,6 +1,4 @@
-# Traffic Flow Analysis
-
-Traffic Flow Analysis example using Azure ML and Yolo object detection.
+# Traffic Flow Analysis example using Azure ML and Yolo object detection
 
 Drones and cameras-based traffic flow tracking and prediction can be achieved using Computer Vision capabilities. These algorithms can now accurately track and count freeway traffic or monitor and analyse traffic density in urban areas, helping to design better traffic management systems and improve road safety.
 
