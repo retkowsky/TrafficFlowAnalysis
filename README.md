@@ -9,6 +9,7 @@ In this example we can count the total number of vehicles and its categories (ca
 <img src = "processed_frame_5750.jpg">
   
 This Python notebook will automatically download some images and video for the demo.
-
+<br>
+<br>
 19-Jan-2022<br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
